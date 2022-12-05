@@ -18,9 +18,9 @@ This is a simple age calculator website that accepts the birth date and returns 
 
 **Previews**
 
-![screenshot](../../../../../../../../../C:/Users/saksh/OneDrive/Documents/Course/javascript/JS%20projects/Age-Calculator/screenshots/Screenshot1.jpg)
+![screenshot](screenshots/Screenshot1.jpg)
 
 
-![screenshot](../../../../../../../../../C:/Users/saksh/OneDrive/Documents/Course/javascript/JS%20projects/Age-Calculator/screenshots/Screenshot%202.jpg)
+![screenshot](screenshots/Screenshot%202.jpg)
 
 
